@@ -28,7 +28,7 @@ python app.py
 
 #### Structure
 ```
-/websocket-chat-example
+/websocket_example_react_flask
 ├── /frontend
 └── /backend         
 ```
